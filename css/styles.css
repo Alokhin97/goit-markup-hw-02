@@ -3,7 +3,7 @@
     --second-color:#2196F3;
 }
 
-.body {
+.page-body {
     font-family: 'Roboto', sans-serif;
     color: var(--main-color)
 }
