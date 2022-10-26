@@ -9,14 +9,11 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: var(--main-color)
+    background-color: var(--fourth-color)
 }
 
 .hero {
     background-color:#2F303A;
-}
-
-.hero-portfolio {
-    background-color:#F5F5F5;
 }
 
 footer {
@@ -44,6 +41,18 @@ list-style: none;
     margin: -1px;
 }
 
+.colortext {
+color: #000000;
+}
+
+.colortext-footer {
+color: #FFFFFF;
+}
+
+.line {
+    color:#ECECEC;
+}
+
 .logo {
 font-family: 'Raleway';
 font-weight: 700;
@@ -58,6 +67,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: calc(16/14);
 letter-spacing: 0.02em;
+color: var(--main-color);
 }
 
 .header-list-link:hover {
