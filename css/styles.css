@@ -12,6 +12,10 @@ body {
     background-color: var(--fourth-color)
 }
 
+.page-header {
+border-bottom: 1px solid #ECECEC;
+}
+
 .hero {
     background-color:#2F303A;
 }
@@ -47,10 +51,6 @@ color: #000000;
 
 .colortext-footer {
 color: #FFFFFF;
-}
-
-.line {
-    color:#ECECEC;
 }
 
 .logo {
